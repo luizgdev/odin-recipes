@@ -1,0 +1,17 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: #260801;
+}
+
+.title {
+    background-color: #F21905;
+    text-align: center;
+}
+
+body {
+    background-color: #A66946;
+}
+
+.list {
+    font-size: larger;
+}
